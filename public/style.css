@@ -501,6 +501,7 @@ main h2.titulopub{
     
 main div.book p{
     font-size: 1.25rem;
+    margin: 0.1rem;
 }
 
 main div.book span.marg{
@@ -521,4 +522,8 @@ main img.recom{
     width: 40%;
     float: top;
     border-radius: var(--border-radius);
+}
+
+main div.recomendacao a.pub{
+    text-align: center;
 }
